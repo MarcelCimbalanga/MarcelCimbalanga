@@ -1,0 +1,1 @@
+SELECT * FROM african_countries.`countries list`;
